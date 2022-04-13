@@ -13,3 +13,4 @@ def devide_new(a, b):
 
 #git fetch 확인 후 say_hello() 제거
 #잘못된 부분 알아서 제거 후 git push
+#git commit -a check
