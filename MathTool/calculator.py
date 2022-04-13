@@ -12,4 +12,6 @@ def devide_new(a, b):
     return a/b
 
 def say_hello():
-    print('hello')
+    print{'hello'}
+    
+#새로운 함수 생성
