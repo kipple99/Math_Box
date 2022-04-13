@@ -11,7 +11,4 @@ def devide_free(a, b):
 def devide_new(a, b):
     return a/b
 
-def say_hello():
-    print{'hello'}
-    
-#새로운 함수 생성
+#잘못된 부분 알아서 제거 후 git push
